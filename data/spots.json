@@ -2,25 +2,39 @@
   "spots": [
     {
       "id": "spot_001",
-      "name": "尖沙咀码头 · 维港日落",
+      "name": "å°æ²åç å¤´ Â· ç»´æ¸¯æ¥è½",
       "lng": 114.169,
       "lat": 22.294,
       "rank": "high",
-      "description": "拍摄日落时分的巴士，背景为维多利亚港。建议使用长焦镜头。",
+      "description": "æææ¥è½æ¶åçå·´å£«ï¼èæ¯ä¸ºç»´å¤å©äºæ¸¯ãå»ºè®®ä½¿ç¨é¿ç¦éå¤´ã",
       "photos": [],
-      "createdBy": "系统初始",
+      "createdBy": "ç³»ç»åå§",
       "createdAt": "2026-06-18"
     },
     {
       "id": "spot_002",
-      "name": "旺角弥敦道 · 城市夜景",
+      "name": "æºè§å¼¥æ¦é Â· åå¸å¤æ¯",
       "lng": 114.171,
       "lat": 22.315,
       "rank": "medium",
-      "description": "弥敦道繁华路段，适合拍摄夜间巴士光轨。",
+      "description": "å¼¥æ¦éç¹åè·¯æ®µï¼éåææå¤é´å·´å£«åè½¨ã",
       "photos": [],
-      "createdBy": "系统初始",
+      "createdBy": "ç³»ç»åå§",
       "createdAt": "2026-06-18"
+    },
+    {
+      "id": "spot_1781790544526",
+      "name": "testing",
+      "lng": 113.744362,
+      "lat": 22.25324,
+      "rank": "low",
+      "description": "testing",
+      "photos": [],
+      "createdBy": "ponginloi",
+      "createdAt": "2026-06-18",
+      "status": "pending",
+      "reviewedBy": null,
+      "reviewedAt": null
     }
   ]
 }
