@@ -1,1 +1,26 @@
-
+{
+  "spots": [
+    {
+      "id": "spot_001",
+      "name": "尖沙咀码头 · 维港日落",
+      "lng": 114.169,
+      "lat": 22.294,
+      "rank": "high",
+      "description": "拍摄日落时分的巴士，背景为维多利亚港。建议使用长焦镜头。",
+      "photos": [],
+      "createdBy": "系统初始",
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": "spot_002",
+      "name": "旺角弥敦道 · 城市夜景",
+      "lng": 114.171,
+      "lat": 22.315,
+      "rank": "medium",
+      "description": "弥敦道繁华路段，适合拍摄夜间巴士光轨。",
+      "photos": [],
+      "createdBy": "系统初始",
+      "createdAt": "2026-06-18"
+    }
+  ]
+}
