@@ -23,6 +23,14 @@
       "password": "a123456",
       "role": "user",
       "createdAt": "2026-06-18"
+    },
+    {
+      "id": "user_1781801831282",
+      "username": "GYCharlie",
+      "email": "3561443195@qq.com",
+      "password": "yms100720",
+      "role": "user",
+      "createdAt": "2026-06-18"
     }
   ]
 }
