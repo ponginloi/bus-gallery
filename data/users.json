@@ -39,6 +39,14 @@
       "password": "114514qqr",
       "role": "user",
       "createdAt": "2026-06-18"
+    },
+    {
+      "id": "user_1781820185326",
+      "username": "HPJJ",
+      "email": "18038706328@163.com",
+      "password": "lpxlyj56",
+      "role": "user",
+      "createdAt": "2026-06-18"
     }
   ]
 }
