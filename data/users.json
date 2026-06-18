@@ -31,6 +31,14 @@
       "password": "yms100720",
       "role": "user",
       "createdAt": "2026-06-18"
+    },
+    {
+      "id": "user_1781815802823",
+      "username": "62193",
+      "email": "d62193@qq.com",
+      "password": "114514qqr",
+      "role": "user",
+      "createdAt": "2026-06-18"
     }
   ]
 }
