@@ -7,6 +7,14 @@
       "email": "admin@example.com",
       "role": "admin",
       "createdAt": "2026-06-18"
+    },
+    {
+      "id": "user_1781790198918",
+      "username": "ponginloi",
+      "email": "ponginloi@gmail.com",
+      "password": "3512686yoben",
+      "role": "user",
+      "createdAt": "2026-06-18"
     }
   ]
 }
