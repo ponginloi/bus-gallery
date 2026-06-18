@@ -15,6 +15,14 @@
       "password": "3512686yoben",
       "role": "user",
       "createdAt": "2026-06-18"
+    },
+    {
+      "id": "user_1781797320579",
+      "username": "demo",
+      "email": "2111@gmail.com",
+      "password": "a123456",
+      "role": "user",
+      "createdAt": "2026-06-18"
     }
   ]
 }
