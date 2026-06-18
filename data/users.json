@@ -47,6 +47,14 @@
       "password": "lpxlyj56",
       "role": "user",
       "createdAt": "2026-06-18"
+    },
+    {
+      "id": "user_1781822728222",
+      "username": "KSBUSFSN",
+      "email": "1478219176@qq.com",
+      "password": "256980",
+      "role": "user",
+      "createdAt": "2026-06-18"
     }
   ]
 }
