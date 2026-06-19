@@ -175,6 +175,14 @@
       "password": "Rr1234",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781839667884",
+      "username": "GABusFan",
+      "email": "2686917646@qq.com",
+      "password": "66666666zhy",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
