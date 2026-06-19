@@ -263,6 +263,14 @@
       "password": "luopeiyi2009",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781863239294",
+      "username": "0223",
+      "email": "625519685@qq.com",
+      "password": "21200223.",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
