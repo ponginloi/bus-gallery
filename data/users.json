@@ -295,6 +295,14 @@
       "password": "Jacky110924",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781867220106",
+      "username": "46014",
+      "email": "cd9975@qq.com",
+      "password": "bx46014",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
