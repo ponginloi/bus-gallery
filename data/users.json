@@ -143,6 +143,14 @@
       "password": "Lzf123456",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781832980773",
+      "username": "Me_fire",
+      "email": "3071103528@qq.com",
+      "password": "16022214f",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
