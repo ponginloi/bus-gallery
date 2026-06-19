@@ -239,6 +239,14 @@
       "password": "enviro500",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781861309005",
+      "username": "DirectZ99",
+      "email": "1621374101@qq.com",
+      "password": "wdnmd807912",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
