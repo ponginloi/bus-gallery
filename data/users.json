@@ -215,6 +215,14 @@
       "password": "522asdfg",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781856370627",
+      "username": "xcc2026",
+      "email": "18128730976@139.com",
+      "password": "Lz20080718*",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
