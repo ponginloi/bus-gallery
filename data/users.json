@@ -79,6 +79,14 @@
       "password": "nmz666",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781827868757",
+      "username": "Hanlog_12",
+      "email": "3934741296@qq.com",
+      "password": "yzzh0117",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
