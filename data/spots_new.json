@@ -14,7 +14,7 @@
       "status": "approved",
       "reviewedBy": "ponginloi",
       "reviewedAt": "2026-06-19",
-      "reviewReason": "ÃÂ¥ÃÂ®ÃÂ¡ÃÂ¦ÃÂ ÃÂ¸ÃÂ©ÃÂÃÂÃÂ¨ÃÂ¿ÃÂ"
+      "reviewReason": "ÃÂÃÂ¥ÃÂÃÂ®ÃÂÃÂ¡ÃÂÃÂ¦ÃÂÃÂ ÃÂÃÂ¸ÃÂÃÂ©ÃÂÃÂÃÂÃÂÃÂÃÂ¨ÃÂÃÂ¿ÃÂÃÂ"
     },
     {
       "id": "spot_1781841904387",
@@ -30,7 +30,7 @@
       "status": "approved",
       "reviewedBy": "ponginloi",
       "reviewedAt": "2026-06-19",
-      "reviewReason": "ÃÂÃÂ¥ÃÂÃÂ®ÃÂÃÂ¡ÃÂÃÂ¦ÃÂÃÂ ÃÂÃÂ¸ÃÂÃÂ©ÃÂÃÂÃÂÃÂÃÂÃÂ¨ÃÂÃÂ¿ÃÂÃÂ"
+      "reviewReason": "ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ©ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ"
     },
     {
       "id": "spot_1781842826987",
@@ -38,7 +38,7 @@
       "lng": 114.147462,
       "lat": 22.29753,
       "rank": "medium",
-      "description": "Ã¦ÂÂÃ¦ÂÂ Ã¦ÂÂÃ¨Â¿Â°",
+      "description": "ÃÂ¦ÃÂÃÂÃÂ¦ÃÂÃÂ ÃÂ¦ÃÂÃÂÃÂ¨ÃÂ¿ÃÂ°",
       "examplePhoto": null,
       "photos": [],
       "createdBy": "demo",
@@ -46,18 +46,34 @@
       "status": "approved",
       "reviewedBy": "ponginloi",
       "reviewedAt": "2026-06-19",
-      "reviewReason": "å®¡æ ¸éè¿"
+      "reviewReason": "Ã¥Â®Â¡Ã¦Â Â¸Ã©ÂÂÃ¨Â¿Â"
     },
     {
       "id": "spot_1781843583442",
-      "name": "天津站公交站进场口",
+      "name": "å¤©æ´¥ç«å¬äº¤ç«è¿åºå£",
       "lng": 117.205972,
       "lat": 39.136013,
       "rank": "medium",
-      "description": "暂无描述",
+      "description": "ææ æè¿°",
       "examplePhoto": "https://i.ibb.co/23jRZC8b/P1227455.jpg",
       "photos": [],
       "createdBy": "K1452",
+      "createdAt": "2026-06-19",
+      "status": "pending",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "reviewReason": null
+    },
+    {
+      "id": "spot_1781843769947",
+      "name": "赣县公交枢纽正对面",
+      "lng": 115.03557,
+      "lat": 25.87867,
+      "rank": "medium",
+      "description": "总体视角还行，经过的车辆及线路也繁多，但未操控好角度容易大头，部分时候\n会逆光",
+      "examplePhoto": "https://i.ibb.co/tPctYF7p/IMG-20260418-152513.jpg",
+      "photos": [],
+      "createdBy": "ExpressT128",
       "createdAt": "2026-06-19",
       "status": "pending",
       "reviewedBy": null,
