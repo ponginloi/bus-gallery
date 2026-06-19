@@ -14,7 +14,7 @@
       "status": "approved",
       "reviewedBy": "ponginloi",
       "reviewedAt": "2026-06-19",
-      "reviewReason": "审核通过"
+      "reviewReason": "å®¡æ ¸éè¿"
     },
     {
       "id": "spot_1781841904387",
@@ -30,7 +30,23 @@
       "status": "approved",
       "reviewedBy": "ponginloi",
       "reviewedAt": "2026-06-19",
-      "reviewReason": "å®¡æ ¸éè¿"
+      "reviewReason": "Ã¥Â®Â¡Ã¦Â Â¸Ã©ÂÂÃ¨Â¿Â"
+    },
+    {
+      "id": "spot_1781842826987",
+      "name": "testing4",
+      "lng": 114.147462,
+      "lat": 22.29753,
+      "rank": "medium",
+      "description": "暂无描述",
+      "examplePhoto": null,
+      "photos": [],
+      "createdBy": "demo",
+      "createdAt": "2026-06-19",
+      "status": "pending",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "reviewReason": null
     }
   ]
 }
