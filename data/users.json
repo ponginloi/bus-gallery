@@ -95,6 +95,14 @@
       "password": "zzx131103",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781830273019",
+      "username": "Mine",
+      "email": "chnne1@qq.com",
+      "password": "12345678abc",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
