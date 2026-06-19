@@ -287,6 +287,14 @@
       "password": "windows11",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781866441974",
+      "username": "Ginger",
+      "email": "opb20110924@qq.com",
+      "password": "Jacky110924",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
