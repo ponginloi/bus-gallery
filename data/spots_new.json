@@ -15,6 +15,22 @@
       "reviewedBy": null,
       "reviewedAt": null,
       "reviewReason": null
+    },
+    {
+      "id": "spot_1781841904387",
+      "name": "testing2",
+      "lng": 113.730309,
+      "lat": 22.296194,
+      "rank": "low",
+      "description": "testing2",
+      "examplePhoto": "https://i.ibb.co/Vc6DZP3g/DSCF4351-2.jpg",
+      "photos": [],
+      "createdBy": "ponginloi",
+      "createdAt": "2026-06-19",
+      "status": "pending",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "reviewReason": null
     }
   ]
 }
