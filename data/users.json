@@ -247,6 +247,14 @@
       "password": "wdnmd807912",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781861501085",
+      "username": "kaka",
+      "email": "2540432607@qq.com",
+      "password": "478246",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
