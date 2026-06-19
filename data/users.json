@@ -311,6 +311,14 @@
       "password": "LCK6810EVG",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781880281839",
+      "username": "Pinggai",
+      "email": "pinggai@163.com",
+      "password": "787891",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
