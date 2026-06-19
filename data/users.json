@@ -255,6 +255,14 @@
       "password": "478246",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781862527313",
+      "username": "ROADSHOW",
+      "email": "69062490@qq.com",
+      "password": "luopeiyi2009",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
