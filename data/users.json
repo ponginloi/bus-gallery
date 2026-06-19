@@ -119,6 +119,14 @@
       "password": "HFF6125GK15",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781832103732",
+      "username": "MK8411",
+      "email": "s17.auo.992@gmail.com",
+      "password": "s4866000",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
