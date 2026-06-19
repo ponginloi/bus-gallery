@@ -279,6 +279,14 @@
       "password": "123456",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781866257249",
+      "username": "Admiralty",
+      "email": "windows365@dingtalk.com",
+      "password": "windows11",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
