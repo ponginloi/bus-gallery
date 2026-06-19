@@ -223,6 +223,14 @@
       "password": "Lz20080718*",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781856995003",
+      "username": "ZH8898",
+      "email": "3167025191@qq.com",
+      "password": "ZH8898zh",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
