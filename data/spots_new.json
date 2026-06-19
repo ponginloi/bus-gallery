@@ -1,3 +1,20 @@
 {
-  "spots": []
+  "spots": [
+    {
+      "id": "spot_1781841492219",
+      "name": "testing",
+      "lng": 114.093069,
+      "lat": 22.299516,
+      "rank": "low",
+      "description": "testing",
+      "examplePhoto": "https://i.ibb.co/Vc6DZP3g/DSCF4351-2.jpg",
+      "photos": [],
+      "createdBy": "ponginloi",
+      "createdAt": "2026-06-19",
+      "status": "pending",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "reviewReason": null
+    }
+  ]
 }
