@@ -191,6 +191,14 @@
       "password": "Z123123",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781843439307",
+      "username": "K1452",
+      "email": "k1452k1449@gmail.com",
+      "password": "k1452k1449",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
