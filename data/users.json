@@ -151,6 +151,14 @@
       "password": "16022214f",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781836677697",
+      "username": "Kee1998",
+      "email": "957086188@qq.com",
+      "password": "keke9999",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
