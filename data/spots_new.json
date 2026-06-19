@@ -14,7 +14,7 @@
       "status": "approved",
       "reviewedBy": "ponginloi",
       "reviewedAt": "2026-06-19",
-      "reviewReason": "Ã¥Â®Â¡Ã¦Â Â¸Ã©ÂÂÃ¨Â¿Â"
+      "reviewReason": "ÃÂ¥ÃÂ®ÃÂ¡ÃÂ¦ÃÂ ÃÂ¸ÃÂ©ÃÂÃÂÃÂ¨ÃÂ¿ÃÂ"
     },
     {
       "id": "spot_1781841904387",
@@ -30,7 +30,7 @@
       "status": "approved",
       "reviewedBy": "ponginloi",
       "reviewedAt": "2026-06-19",
-      "reviewReason": "ÃÂ¥ÃÂ®ÃÂ¡ÃÂ¦ÃÂ ÃÂ¸ÃÂ©ÃÂÃÂÃÂ¨ÃÂ¿ÃÂ"
+      "reviewReason": "ÃÂÃÂ¥ÃÂÃÂ®ÃÂÃÂ¡ÃÂÃÂ¦ÃÂÃÂ ÃÂÃÂ¸ÃÂÃÂ©ÃÂÃÂÃÂÃÂÃÂÃÂ¨ÃÂÃÂ¿ÃÂÃÂ"
     },
     {
       "id": "spot_1781842826987",
@@ -38,7 +38,7 @@
       "lng": 114.147462,
       "lat": 22.29753,
       "rank": "medium",
-      "description": "ææ æè¿°",
+      "description": "Ã¦ÂÂÃ¦ÂÂ Ã¦ÂÂÃ¨Â¿Â°",
       "examplePhoto": null,
       "photos": [],
       "createdBy": "demo",
@@ -46,7 +46,23 @@
       "status": "approved",
       "reviewedBy": "ponginloi",
       "reviewedAt": "2026-06-19",
-      "reviewReason": "审核通过"
+      "reviewReason": "å®¡æ ¸éè¿"
+    },
+    {
+      "id": "spot_1781843583442",
+      "name": "天津站公交站进场口",
+      "lng": 117.205972,
+      "lat": 39.136013,
+      "rank": "medium",
+      "description": "暂无描述",
+      "examplePhoto": "https://i.ibb.co/23jRZC8b/P1227455.jpg",
+      "photos": [],
+      "createdBy": "K1452",
+      "createdAt": "2026-06-19",
+      "status": "pending",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "reviewReason": null
     }
   ]
 }
