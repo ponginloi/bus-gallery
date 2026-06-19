@@ -87,6 +87,14 @@
       "password": "yzzh0117",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781828704633",
+      "username": "huangmozzz",
+      "email": "zayujiayoua@qq.com",
+      "password": "zzx131103",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
