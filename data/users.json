@@ -135,6 +135,14 @@
       "password": "tb200912",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781832791197",
+      "username": "7zpu",
+      "email": "wer20260503@163.com",
+      "password": "Lzf123456",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
