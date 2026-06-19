@@ -319,6 +319,14 @@
       "password": "787891",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781882257694",
+      "username": "sty0321",
+      "email": "3091884209@qq.com",
+      "password": "Sjp0321tp",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
