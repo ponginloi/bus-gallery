@@ -167,6 +167,14 @@
       "password": "olm8772w",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781839623736",
+      "username": "awei",
+      "email": "2123270087@qq.com",
+      "password": "Rr1234",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
