@@ -11,10 +11,10 @@
       "photos": [],
       "createdBy": "ponginloi",
       "createdAt": "2026-06-19",
-      "status": "pending",
-      "reviewedBy": null,
-      "reviewedAt": null,
-      "reviewReason": null
+      "status": "approved",
+      "reviewedBy": "ponginloi",
+      "reviewedAt": "2026-06-19",
+      "reviewReason": "审核通过"
     },
     {
       "id": "spot_1781841904387",
@@ -30,7 +30,7 @@
       "status": "approved",
       "reviewedBy": "ponginloi",
       "reviewedAt": "2026-06-19",
-      "reviewReason": "审核通过"
+      "reviewReason": "å®¡æ ¸éè¿"
     }
   ]
 }
