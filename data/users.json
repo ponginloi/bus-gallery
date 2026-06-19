@@ -271,6 +271,14 @@
       "password": "21200223.",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781865317643",
+      "username": "huaianemeishan",
+      "email": "huaianemeisan@qq.com",
+      "password": "123456",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
