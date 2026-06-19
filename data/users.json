@@ -127,6 +127,14 @@
       "password": "s4866000",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781832473957",
+      "username": "ExpressT128",
+      "email": "1171471976@qq.com",
+      "password": "tb200912",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
