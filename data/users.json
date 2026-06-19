@@ -303,6 +303,14 @@
       "password": "bx46014",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781872023081",
+      "username": "xiaoIu",
+      "email": "3603028131@qq.com",
+      "password": "LCK6810EVG",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
