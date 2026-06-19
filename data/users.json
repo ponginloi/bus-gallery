@@ -159,6 +159,14 @@
       "password": "keke9999",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781837589954",
+      "username": "HQC6031",
+      "email": "2654274190@qq.com",
+      "password": "olm8772w",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
