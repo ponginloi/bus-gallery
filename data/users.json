@@ -199,6 +199,14 @@
       "password": "k1452k1449",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781848608472",
+      "username": "HFBUS_BILL",
+      "email": "3038864578@qq.com",
+      "password": "BILLXJH2001",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
