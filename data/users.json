@@ -207,6 +207,14 @@
       "password": "BILLXJH2001",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781853066794",
+      "username": "LiangSousou",
+      "email": "l13422825415@qq.com",
+      "password": "522asdfg",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
