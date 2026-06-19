@@ -63,6 +63,14 @@
       "password": "114514abc",
       "role": "user",
       "createdAt": "2026-06-18"
+    },
+    {
+      "id": "user_1781827376702",
+      "username": "guxila",
+      "email": "455899219@qq.com",
+      "password": "as123456",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
