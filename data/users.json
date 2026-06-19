@@ -231,6 +231,14 @@
       "password": "ZH8898zh",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781857269517",
+      "username": "KeyuandadaoEast",
+      "email": "bugeiwo_0220@qq.com",
+      "password": "enviro500",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
