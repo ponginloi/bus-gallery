@@ -111,6 +111,14 @@
       "password": "1324354657687980",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781831878619",
+      "username": "GK50_",
+      "email": "2315945539@qq.com",
+      "password": "HFF6125GK15",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
