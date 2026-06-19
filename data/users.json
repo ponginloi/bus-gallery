@@ -71,6 +71,14 @@
       "password": "as123456",
       "role": "user",
       "createdAt": "2026-06-19"
+    },
+    {
+      "id": "user_1781827541759",
+      "username": "DyNMZ",
+      "email": "nmz6661@qq.com",
+      "password": "nmz666",
+      "role": "user",
+      "createdAt": "2026-06-19"
     }
   ]
 }
